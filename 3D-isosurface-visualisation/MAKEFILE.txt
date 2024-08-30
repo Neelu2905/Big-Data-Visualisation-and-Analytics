@@ -1,0 +1,11 @@
+Our source_code.ipynb file contains following imports
+
+import random
+import plotly.subplots as sp
+import plotly.graph_objs as go         
+import numpy as np                     
+import vtk
+import ipywidgets as widgets
+from ipywidgets import interactive
+
+So if incase you dont have any package then use pip command to install the corresponding dependencies.
